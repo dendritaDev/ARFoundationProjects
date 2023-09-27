@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Plants/Plants.unity
-    guid: 94dc9f34cc05362489467f9aef12ef9b
+    path: Assets/Scenes/MyIkeaPlace/MyIkeaPlaceFloor.unity
+    guid: c21e6a1c97271f6418f2a2c8ebbbd312
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 04a10b298aaa8064296da74f8a55482a, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 642619ce543548843a089a6ae3df039c, type: 2}

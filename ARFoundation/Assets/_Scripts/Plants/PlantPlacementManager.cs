@@ -33,7 +33,7 @@ public class PlantPlacementManager : MonoBehaviour
                 _object.transform.position = raycastHits[0].pose.position;
                 _object.transform.DOScale(0f, 0f);
                 _object.transform.DOScale(0.5f, 1.25f).SetEase(Ease.InBounce);
-            }
+            }   
 
             planeManager.enabled = false;
         }
