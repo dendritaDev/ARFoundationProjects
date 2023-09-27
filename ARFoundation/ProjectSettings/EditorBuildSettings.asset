@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Planets/HomeScreen.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/Planets/PlanetScene.unity
-    guid: cf9e8412dcfb2c14b9e5b49fbb49bbbb
+    path: Assets/Scenes/JetTurbines/JetTurbine.unity
+    guid: 45e6abb9020f9ce4eb666748a71ea04e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 04a10b298aaa8064296da74f8a55482a, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 642619ce543548843a089a6ae3df039c, type: 2}
