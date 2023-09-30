@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MyIkeaPlace/MyIkeaPlace.unity
-    guid: 72e314455e95b354fab81c5fe1c1c906
+    path: Assets/Scenes/ARMeasureRuler/ARMeasureRuler.unity
+    guid: 72fe4d42fda5973439a32b7d71fb3b97
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 04a10b298aaa8064296da74f8a55482a, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 642619ce543548843a089a6ae3df039c, type: 2}
