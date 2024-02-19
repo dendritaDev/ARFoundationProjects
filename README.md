@@ -14,6 +14,6 @@ An AR application that allows users to place plants in their environment. Users 
 A clone of the IkeaPlace app that allows users to place Ikea furniture in their home. Users can rotate, scale, and place furniture to see how it would look in their space.
 
 ### ARMeasureRuler
-An AR application that allows users to measure objects in their environment. Users can point the camera at an object and the app will display the object's dimensions in AR.
+An AR application that allows users to measure.
 
 
